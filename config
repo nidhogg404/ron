@@ -1,0 +1,6 @@
+[DEFAULT]
+user=ocid1.user.oc1..aaaaaaaaaax4w5u7hzidhaezq7el24f7icm3zq6ws3sqvrffbrgfgoryj22a
+fingerprint=0f:0c:35:01:42:19:53:ef:46:86:c8:4b:c1:e1:cc:76
+tenancy=ocid1.tenancy.oc1..aaaaaaaategzhsgtusxf5qvrs5yi6thdgankktxiu2csejczhi5liiujrypa
+region=us-phoenix-1
+key_file=oci_private_key.pem
